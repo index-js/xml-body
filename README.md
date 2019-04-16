@@ -16,7 +16,7 @@ const options = {
   explicitArray: false
 }
 
-app.use(xmlBody())
+app.use(xmlBody(options))
 ```
 
 ## Xml parse options
