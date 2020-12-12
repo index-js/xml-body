@@ -1,5 +1,5 @@
 # Xml-body
-> Koa xml parser
+> Koa xml parser，Convert ctx.request.body -> JSON after `koa-body`
 
 ## Usage
 
